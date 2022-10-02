@@ -1,0 +1,20 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/ender_eye"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data":1001}, "model": "item/pistol"},
+  { "predicate": {"custom_model_data":1002}, "model": "item/rifle"},
+  { "predicate": {"custom_model_data":1003}, "model": "item/mp"},
+  { "predicate": {"custom_model_data":1004}, "model": "item/pumpgun"},
+  { "predicate": {"custom_model_data":1005}, "model": "item/frost_thrower"},
+  { "predicate": {"custom_model_data":1006}, "model": "item/zzapper"},
+  { "predicate": {"custom_model_data":1007}, "model": "item/minigun"},
+  { "predicate": {"custom_model_data":1008}, "model": "item/rocket_launcher"},
+  { "predicate": {"custom_model_data":1009}, "model": "item/sniper"}
+ ]
+
+ 
+}

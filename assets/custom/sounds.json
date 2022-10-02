@@ -1,0 +1,19 @@
+{
+	"snipershot": {
+	    "sounds": [
+		   "custom:snipershot"
+		]
+	},
+	"shoot": {
+	    "sounds": [
+		   "custom:shoot1"
+		]
+	},
+	"rep": {
+	    "sounds": [
+		   "custom:rep1",
+		   "custom:rep2",		
+		   "custom:rep3"
+		]
+	}
+}
