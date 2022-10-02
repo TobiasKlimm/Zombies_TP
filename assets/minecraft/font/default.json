@@ -1,30 +1,25 @@
 {
     "providers": [
-	{
+		{
             "type": "ttf",
             "file": "minecraft:negative_spaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0
-        },
+        	},
 		{
             "type": "bitmap",
             "file": "minecraft:font/A1.png",
             "ascent": 64,
             "height": 64,
-            "chars": [
-                "\uaaa1"
-            ]
-        }
-		
-    ]
-"providers":[
-{
-"type":"bitmap",
-"file":"minecraft:dark.png",
-"ascent":128,
-"height":256,
-"chars":["\uE000"]
-}
-]
+            "chars": ["\uaaa1"]
+        	},
+		{
+		"type":"bitmap",
+		"file":"minecraft:dark.png",
+		"ascent":128,
+		"height":256,
+		"chars":["\uE000"]
+		}
+	]
 }
