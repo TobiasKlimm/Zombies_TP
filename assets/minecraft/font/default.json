@@ -15,6 +15,41 @@
             "chars": ["\uaaa1"]
         	},
 		{
+			"type": "bitmap",
+			"file": "minecraft:font/ammoNormal.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa2"]
+			},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/ammoFast.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa3"]
+			},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/ammoSharp.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa4"]
+			},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/coins.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa5"]
+			},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hearts.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa6"]
+			},
+		{
 		"type":"bitmap",
 		"file":"minecraft:dark.png",
 		"ascent":128,
