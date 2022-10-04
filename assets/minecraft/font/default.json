@@ -16,21 +16,21 @@
         	},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/ammoNormal.png",
+			"file": "minecraft:font/ammonormal.png",
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uaaa2"]
 			},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/ammoFast.png",
+			"file": "minecraft:font/ammofast.png",
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uaaa3"]
 			},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/ammoSharp.png",
+			"file": "minecraft:font/ammosharp.png",
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uaaa4"]
