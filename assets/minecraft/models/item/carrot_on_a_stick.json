@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1001}, "model": "item/carrot_on_a_stick/1001"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/carrot_on_a_stick/1002"},
+		{"predicate": {"custom_model_data":1003}, "model": "item/carrot_on_a_stick/1003"},
+		{"predicate": {"custom_model_data":1004}, "model": "item/carrot_on_a_stick/1004"},
+		{"predicate": {"custom_model_data":1005}, "model": "item/carrot_on_a_stick/1005"},
+		{"predicate": {"custom_model_data":1006}, "model": "item/carrot_on_a_stick/1006"},
+		{"predicate": {"custom_model_data":1007}, "model": "item/carrot_on_a_stick/1007"},
+		{"predicate": {"custom_model_data":1008}, "model": "item/carrot_on_a_stick/1008"}
+	]
+}
