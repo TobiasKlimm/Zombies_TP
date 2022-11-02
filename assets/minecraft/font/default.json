@@ -50,6 +50,13 @@
 			"chars": ["\uaaa6"]
 			},
 		{
+			"type": "bitmap",
+			"file": "minecraft:font/armor.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uaaa7"]
+			},
+		{
 		"type":"bitmap",
 		"file":"minecraft:dark.png",
 		"ascent":128,
