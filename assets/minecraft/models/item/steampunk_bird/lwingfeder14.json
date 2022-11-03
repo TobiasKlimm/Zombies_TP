@@ -1,0 +1,41 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:entity/steambird"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [5.25, 4.6875, 5.375, 4.8125], "texture": "#0"},
+				"east": {"uv": [4.5625, 4.6875, 5.25, 4.8125], "texture": "#0"},
+				"south": {"uv": [6.0625, 4.6875, 6.1875, 4.8125], "texture": "#0"},
+				"west": {"uv": [5.375, 4.6875, 6.0625, 4.8125], "texture": "#0"},
+				"up": {"uv": [5.375, 4.6875, 5.25, 4], "texture": "#0"},
+				"down": {"uv": [5.5, 4, 5.375, 4.6875], "texture": "#0"}
+			},
+			"to": [8.4, 5.4, 12.4],
+			"from": [7.6, 4.6, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.7, 0.9, 7.8]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [8.1875, 1.75, 8.3125, 1.8125], "texture": "#0"},
+				"east": {"uv": [7.75, 1.75, 8.1875, 1.8125], "texture": "#0"},
+				"south": {"uv": [8.75, 1.75, 8.875, 1.8125], "texture": "#0"},
+				"west": {"uv": [8.3125, 1.75, 8.75, 1.8125], "texture": "#0"},
+				"up": {"uv": [8.3125, 1.75, 8.1875, 1.3125], "texture": "#0"},
+				"down": {"uv": [8.4375, 1.3125, 8.3125, 1.75], "texture": "#0"}
+			},
+			"to": [8.4, 5.4, 15.2],
+			"from": [7.6, 5, 12.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.7, 0.9, 7.8]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

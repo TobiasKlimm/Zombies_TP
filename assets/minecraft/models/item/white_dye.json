@@ -1,0 +1,456 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/steampunk_bird/schnabelunten"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/steampunk_bird/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/steampunk_bird/schnabeloben"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/steampunk_bird/kopffeder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/steampunk_bird/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/steampunk_bird/kopffedern2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/steampunk_bird/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/steampunk_bird/kopf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:item/steampunk_bird/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "minecraft:item/steampunk_bird/schwanzfeder6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "minecraft:item/steampunk_bird/body3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "minecraft:item/steampunk_bird/lwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "minecraft:item/steampunk_bird/lwing1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "minecraft:item/steampunk_bird/lwing3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "minecraft:item/steampunk_bird/lwing4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "minecraft:item/steampunk_bird/lwing5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "minecraft:item/steampunk_bird/lwing6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "minecraft:item/steampunk_bird/lwing2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "minecraft:item/steampunk_bird/lwingfeder13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "minecraft:item/steampunk_bird/rwing7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "minecraft:item/steampunk_bird/rwing8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "minecraft:item/steampunk_bird/rwing9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "minecraft:item/steampunk_bird/rwing10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "minecraft:item/steampunk_bird/rwing11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "minecraft:item/steampunk_bird/rwing12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "minecraft:item/steampunk_bird/rwing13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "minecraft:item/steampunk_bird/rwingfeder28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "minecraft:item/steampunk_bird/lbein"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "minecraft:item/steampunk_bird/unterschenkel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "minecraft:item/steampunk_bird/kralle1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "minecraft:item/steampunk_bird/kralle2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "minecraft:item/steampunk_bird/kralle3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "minecraft:item/steampunk_bird/lbein2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "minecraft:item/steampunk_bird/unterschenkel2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "minecraft:item/steampunk_bird/kralle4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "minecraft:item/steampunk_bird/kralle5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "minecraft:item/steampunk_bird/kralle6"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"99c00d1d-6601-e313-8ef8-a0af28752af6": {
+				"name": "chicken",
+				"usedIDs": [
+					[1, 73]
+				]
+			}
+		}
+	}
+}
